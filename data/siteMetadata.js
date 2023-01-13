@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'contact@mobiusnext.com',
   github: 'https://mobius-next.com',
-  twitter: ',
+  twitter: 'https://twitter.com',
   facebook: 'https://www.facebook.com/mobiusnext',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/company/mobiusnext',
